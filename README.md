@@ -1,10 +1,15 @@
-<div style="text-align: center;">
-    <h1>DIGITAL VLSI SoC : DESIGN AND PLANNING</h1>
-    <p>
-        A 2 Week workshop on advanced physical design by 
+<h1 align="center">
+  <code>DIGITAL VLSI SoC : DESIGN AND PLANNING</code>
+</h1>
+
+<p 
+  align = "center" 
+  font-family = "monospace"
+  > 
+  A 2 Week workshop on advanced physical design by 
         <a href="https://www.vlsisystemdesign.com" target="_blank">VLSI Systems Design</a>.
-    </p>
-</div>
+</p>
+
 
 ---
 
